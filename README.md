@@ -2,6 +2,11 @@
 This repo will be where I store my dot files, such as .bashrc, .bash_profile and other configuration files for programs so that
 they are under version control and easily transferable between different systems.
 
+# Disclaimer
+If you are on Windows and using Git Bash, note that trying to create a symbolic link using bash did not work for me; It would create a copy of the file instead of linking
+to the actual file as intended. To get around this, I created a symbolic link from the command prompt using `mklink`, which worked. Note that you have to make sure
+that your user account has symbolic link privilege (check *local security policy -> local policies -> user rights assignment -> Create Symbolic Links*)
+
 # Setup
 If you'd like to try it yourself, here is the process:
 1. Create some directory (*~/GitStuff/myDirectory/*), `cd` into it, and input `git init`
