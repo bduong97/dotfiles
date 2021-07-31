@@ -1,0 +1,4 @@
+mklink "C:\Users\brand\.bash_profile" "C:\Users\brand\GitStuff\dotfiles\.bash_profile"
+mklink "C:\Users\brand\.bashrc" "C:\Users\brand\GitStuff\dotfiles\.bashrc"
+mklink \D  "C:\Users\brand\Documents\My Games\FINAL FANTASY XIV - A Realm Reborn\FFXIV_CHR004000174B1D6A50" "C:\Users\brand\GitStuff\dotfiles\FFXIV_CHR004000174B1D6A50"
+mklink \D "C:\Users\brand\AppData\Roaming\Sublime Text 3\Packages\User" "C:\Users\brand\GitStuff\dotfiles\User"
