@@ -16,13 +16,13 @@ LipMotionType	1
 FirstPersonDefaultYAngle	0.000000
 FirstPersonDefaultZoom	0.780000
 FirstPersonDefaultDistance	1.500000
-ThirdPersonDefaultYAngle	-0.400016
+ThirdPersonDefaultYAngle	-0.412590
 ThirdPersonDefaultZoom	0.780000
 ThirdPersonDefaultDistance	20.000000
 LockonDefaultYAngle	-0.561756
 LockonDefaultZoom	0.780000
 LockonDefaultZoom	19.979870
-CameraProductionOfAction	1
+CameraProductionOfAction	0
 FPSCameraInterpolationType	1
 FPSCameraVerticalInterpolation	0
 LegacyCameraType	1
@@ -46,8 +46,8 @@ FootEffect	0
 LegacySeal	1
 GBarrelDisp	1
 EgiMirageTypeGaruda	0
-EgiMirageTypeTitan	0
-EgiMirageTypeIfrit	0
+EgiMirageTypeTitan	2
+EgiMirageTypeIfrit	3
 BahamutSize	0
 TimeMode	2
 Time12	0
@@ -339,7 +339,7 @@ LogTimeDispLog4	0
 LogPermeationRateLog4	50
 LogFlyingHeightMaxErrDisp	0
 LogCrossWorldName	1
-ChatType	2
+ChatType	18
 ShopSell	0
 ColorSay	16316664
 ColorShout	16754278
