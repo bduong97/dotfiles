@@ -1,0 +1,1072 @@
+{
+	"folder_history":
+	[
+		"/C/Users/brand/GitStuff/Networking-Projects/Network_Automation/General",
+		"/C/Users/brand/GitStuff/PowershellStuff",
+		"/C/Users/brand/GitStuff/Networking-Projects/Network_Automation/ENCRYPTION",
+		"/C/Users/brand/GitStuff/Networking-Projects/Network_Automation/DEBUG",
+		"/C/Users/brand/GitStuff",
+		"/C/Users/brand/OneDrive/Sublime Projects/Network Automation/NAPALM"
+	],
+	"last_version": 3211,
+	"last_window_id": 48,
+	"log_indexing": false,
+	"settings":
+	{
+		"new_window_height": 796.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"Conver",
+						"ConvertFrom-SecureString"
+					],
+					[
+						"encrypte",
+						"encrypted_password"
+					],
+					[
+						"computerna",
+						"computername"
+					],
+					[
+						"computer",
+						"computername"
+					],
+					[
+						"debug",
+						"debug_arp_cache\tfunction"
+					],
+					[
+						"row",
+						"row\tstatement"
+					],
+					[
+						"getpass",
+						"getpass\tfunction"
+					],
+					[
+						"encryp",
+						"encryption_key\tstatement"
+					],
+					[
+						"devi",
+						"devices_dict"
+					],
+					[
+						"decryp",
+						"decrypted_file"
+					],
+					[
+						"decrypt",
+						"decrypted_file\tstatement"
+					],
+					[
+						"switch",
+						"switchX"
+					],
+					[
+						"ios",
+						"ios_output"
+					],
+					[
+						"lines",
+						"lines2"
+					],
+					[
+						"core",
+						"core_switches"
+					]
+				]
+			},
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"git fet",
+						"Git: Fetch"
+					],
+					[
+						"git push",
+						"Git: Push Current Branch"
+					],
+					[
+						"git status",
+						"Git: Status"
+					],
+					[
+						"markdown",
+						"Markdown Preview: Preview in Browser"
+					],
+					[
+						"git pull",
+						"Git: Pull"
+					],
+					[
+						"git Push",
+						"Git: Push Current Branch"
+					],
+					[
+						"Git statu",
+						"Git: Status"
+					],
+					[
+						"Git stat",
+						"Git: Status"
+					],
+					[
+						"git st",
+						"Git: Status"
+					],
+					[
+						"git stat",
+						"Git: Status"
+					],
+					[
+						"Git: Statu",
+						"Git: Status"
+					],
+					[
+						"package control",
+						"Package Control: Install Package"
+					],
+					[
+						"markdownpre",
+						"Markdown Preview: Preview in Browser"
+					],
+					[
+						"package",
+						"Package Control: List Packages"
+					],
+					[
+						"install p",
+						"Package Control: Install Package"
+					],
+					[
+						"Package Control: ",
+						"Package Control: List Packages"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"list packages",
+						"Package Control: List Packages"
+					],
+					[
+						"install package",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 0.0
+			},
+			"console":
+			{
+				"height": 0.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/C/Users/brand/GitStuff/Networking-Projects/Network_Automation/ENCRYPTION/multi_threading.py",
+				"/C/Users/brand/GitStuff/PowershellStuff/Encryption/README.md",
+				"/C/Users/brand/GitStuff/getting-started/docker-tutorial",
+				"/C/Users/brand/Anaconda3/pkgs/vscode_inst.py",
+				"/C/Users/brand/GitStuff/Networking-Projects/.git/config",
+				"/C/Users/brand/GitStuff/Networking-Projects/Network_Automation/password.txt",
+				"/C/Users/brand/GitStuff/Networking-Projects/Network_Automation/ENCRYPTION/devices.txt",
+				"/C/Users/brand/GitStuff/Networking-Projects/Network_Automation/ENCRYPTION/password.txt",
+				"/C/Users/brand/GitStuff/PowershellStuff/Encryption/Shutdown_Pc.ps1",
+				"/C/Users/brand/GitStuff/PowershellStuff/.gitignore",
+				"/C/Users/brand/GitStuff/PowershellStuff/Create_Credential.ps1",
+				"/C/Users/brand/GitStuff/PowershellStuff/Encryption/encrypted.test",
+				"/C/Users/brand/GitStuff/PowershellStuff/README.md",
+				"/C/Users/brand/GitStuff/PowershellStuff/encrypted.test",
+				"/C/Users/brand/GitStuff/PowershellStuff/password.test",
+				"/C/Users/brand/GitStuff/PowershellStuff/key.test",
+				"/C/Users/brand/GitStuff/PowershellStuff/decrypted.test",
+				"/C/Users/brand/GitStuff/PowershellStuff/encrypted-password.txt",
+				"/C/Users/brand/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+				"/C/Users/brand/test.txt",
+				"/C/Users/brand/AppData/Roaming/Sublime Text 3/Packages/User/SublimeGit.sublime-settings",
+				"/C/Users/brand/AppData/Roaming/Sublime Text 3/Packages/SublimeGit/Default (Windows).sublime-keymap",
+				"/C/Users/brand/AppData/Roaming/Sublime Text 3/Packages/SublimeGit/Default.sublime-keymap",
+				"/C/Users/brand/AppData/Roaming/Sublime Text 3/Packages/Default/Default (Windows).sublime-keymap",
+				"/C/Users/brand/AppData/Roaming/Sublime Text 3/Packages/SublimeGit/SublimeGit.sublime-settings",
+				"/C/Users/brand/GitStuff/Networking-Projects/.gitignore",
+				"/C/Users/brand/GitStuff/Networking-Projects/Network_Automation/General/README.md",
+				"/C/Users/brand/GitStuff/Networking-Projects/Network_Automation/General/devices.txt",
+				"/C/Users/brand/GitStuff/Networking-Projects/Network_Automation/General/192.168.254.11_arp.txt",
+				"/C/Users/brand/.gitconfig",
+				"/C/Users/brand/GitStuff/PowershellStuff/scratchwork.txt",
+				"/C/Users/brand/GitStuff/PowershellStuff/first.ps1",
+				"/C/Users/brand/GitStuff/PowershellStuff/mod4script2.ps1",
+				"/C/Users/brand/GitStuff/PowershellStuff/test.csv",
+				"/C/Users/brand/GitStuff/PowershellStuff/test.txt",
+				"/C/Users/brand/GitStuff/dotfiles/README.md",
+				"/C/Users/brand/GitStuff/PowershellStuff/output.txt",
+				"/C/Users/brand/GitStuff/Networking-Projects/Network_Automation/DEBUG/debug.py",
+				"/C/Users/brand/GitStuff/Networking-Projects/Network_Automation/DEBUG/config_modules.py",
+				"/C/Users/brand/GitStuff/Networking-Projects/Network_Automation/DEBUG/password.txt",
+				"/C/Users/brand/GitStuff/Networking-Projects/Network_Automation/DEBUG/devices.txt",
+				"/C/Users/brand/GitStuff/Networking-Projects/Network_Automation/DEBUG/README.md",
+				"/C/Users/brand/GitStuff/Networking-Projects/Network_Automation/ENCRYPTION/config_modules.py",
+				"/C/Users/brand/GitStuff/dotfiles/.bash_profile",
+				"/C/Users/brand/.bashrc",
+				"/C/Users/brand/GitStuff/Networking-Projects/Network_Automation/ENCRYPTION/README.md",
+				"/C/Program Files/Git/etc/gitconfig",
+				"/C/Users/brand/GitStuff/dotfiles/.bashrc",
+				"/C/Users/brand/.bash_profile",
+				"/C/Users/brand/GitStuff/Networking-Projects/Network_Automation/config_modules.py",
+				"/C/Users/brand/AppData/Roaming/Sublime Text 3/Packages/User/Markdown (Standard).sublime-settings",
+				"/C/Users/brand/AppData/Roaming/Sublime Text 3/Packages/MarkdownEditing/Markdown.sublime-settings",
+				"/C/Users/brand/AppData/Roaming/Sublime Text 3/Packages/MarkdownEditing/Markdown (Standard).sublime-settings",
+				"/C/Users/brand/AppData/Roaming/Sublime Text 3/Packages/MarkdownEditing/README.md",
+				"/C/Users/brand/AppData/Roaming/Sublime Text 3/Packages/User/Markdown.sublime-settings",
+				"/C/Users/brand/AppData/Local/Temp/Temp1_get_config_sequential.py.zip/get_config_sequential.py",
+				"/C/Users/brand/GitStuff/Networking-Projects/Network_Automation/.bashrc",
+				"/C/Users/brand/GitStuff/Networking-Projects/Network_Automation/ENCRYPTION/encrypt_file.py",
+				"/C/Users/brand/GitStuff/Networking-Projects/Network_Automation/NETMIKO_TXT_FILES/config_modules.py",
+				"/C/Users/brand/GitStuff/Networking-Projects/.git/COMMIT_EDITMSG",
+				"/C/Users/brand/GitStuff/Networking-Projects/Network_Automation/NETMIKO_TXT_FILES/config_trunk.cfg",
+				"/C/Users/brand/GitStuff/Networking-Projects/Network_Automation/NETMIKO_TXT_FILES/devices.txt",
+				"/C/Users/brand/GitStuff/Networking-Projects/Network_Automation/NETMIKO_TXT_FILES/NMIKO_FINAL.py",
+				"/C/Users/brand/GitStuff/Networking-Projects/.git/MERGE_MSG",
+				"/C/Users/brand/GitStuff/Networking-Projects/Network_Automation/NETMIKO_TXT_FILES/README.md",
+				"/C/Users/brand/GitStuff/Networking-Projects/Network_Automation/NETMIKO_TXT_FILES/NMIKO_ITERATION.txt",
+				"/C/Users/brand/.profile",
+				"/C/Users/brand/GitStuff/Networking-Projects/Network_Automation/netmiko2.py",
+				"/C/Users/brand/GitStuff/Networking-Projects/Network Automation/NETMIKO_TXT_FILES/password.txt",
+				"/C/Users/brand/GitStuff/Networking-Projects/Network Automation/NETMIKO_TXT_FILES/devices.txt",
+				"/C/Users/brand/GitStuff/Networking-Projects/Network Automation/NETMIKO_TXT_FILES/NMIKO_FINAL.py",
+				"/C/Users/brand/GitStuff/Networking-Projects/Network Automation/NETMIKO_TXT_FILES/config_modules.py",
+				"/C/Users/brand/GitStuff/Networking-Projects/Network Automation/NETMIKO_TXT_FILES/password_test.txt",
+				"/C/Users/brand/AppData/Roaming/Sublime Text 3/Packages/User/Anaconda.sublime-settings",
+				"/C/Users/brand/GitStuff/Networking-Projects/Network Automation/NETMIKO_TXT_FILES/switch_ip.txt",
+				"/C/Users/brand/OneDrive/Sublime Projects/Network Automation/NETMIKO_TXT_FILES/switch_ip.txt",
+				"/C/Users/brand/OneDrive/Sublime Projects/Network Automation/NETMIKO_TXT_FILES/devices.txt",
+				"/C/Users/brand/OneDrive/Sublime Projects/Network Automation/NETMIKO_TXT_FILES/config_modules.py",
+				"/C/Users/brand/OneDrive/Sublime Projects/Network Automation/NETMIKO_TXT_FILES/config_ospf.cfg",
+				"/C/Users/brand/OneDrive/Sublime Projects/Network Automation/NETMIKO_TXT_FILES/NMIKO_ITERATION7.py",
+				"/C/Users/brand/OneDrive/Sublime Projects/Network Automation/NETMIKO_TXT_FILES/password_test.py",
+				"/C/Users/brand/OneDrive/Sublime Projects/Network Automation/NAPALM_TXT_FILES/napalmconfig4.py",
+				"/C/Users/brand/OneDrive/Sublime Projects/Network Automation/NAPALM_TXT_FILES/napalmconfig3.py",
+				"/C/Users/brand/OneDrive/Sublime Projects/Network Automation/NAPALM/napalmconfig2.py",
+				"/C/Users/brand/OneDrive/Sublime Projects/Network Automation/NAPALM/ACL2.cfg",
+				"/C/Users/brand/OneDrive/Sublime Projects/Network Automation/NAPALM/napalmconfig1.py",
+				"/C/Users/brand/OneDrive/Sublime Projects/Network Automation/NAPALM/napalmbgp2.py",
+				"/C/Users/brand/OneDrive/Sublime Projects/Network Automation/NAPALM/ACL1.cfg.py",
+				"/C/Users/brand/OneDrive/Sublime Projects/Network Automation/NAPALM/napalm1.py",
+				"/C/Users/brand/OneDrive/Sublime Projects/Network Automation/NAPALM/napalm2.py",
+				"/C/Users/brand/OneDrive/Sublime Projects/Network Automation/NAPALM/napalmbgp1.py",
+				"/C/Users/brand/AppData/Local/Temp/Temp1_netmiko4.py.zip/netmiko4.py",
+				"/C/Users/brand/AppData/Local/Temp/Temp1_iosv_l2_cisco_design.zip/iosv_l2_cisco_design",
+				"/C/Users/brand/OneDrive/Sublime Projects/Network Automation/netmiko3.py",
+				"/C/Users/brand/OneDrive/Sublime Projects/Network Automation/switchWrite.py",
+				"/C/Users/brand/AppData/Local/Temp/Temp1_netmiko3.py.zip/netmiko3.py",
+				"/C/Users/brand/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+				"/C/Users/brand/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+				"/C/Users/brand/OneDrive/Sublime Projects/Network Automation/python32.py",
+				"/C/Users/brand/OneDrive/Sublime Projects/Network Automation/test.py",
+				"/C/Users/brand/OneDrive/Sublime Projects/test.py"
+			],
+			"find":
+			{
+				"height": 29.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"Key",
+					"ctrl+shift+x",
+					"ctrl+shift+h"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 29.0
+			},
+			"input":
+			{
+				"height": 41.0
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"output.git-commit":
+			{
+				"height": 138.0
+			},
+			"output.git-fetch":
+			{
+				"height": 138.0
+			},
+			"output.git-push":
+			{
+				"height": 138.0
+			},
+			"pinned_build_system": "",
+			"replace":
+			{
+				"height": 54.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 94.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 1610.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"Conver",
+						"ConvertFrom-SecureString"
+					],
+					[
+						"encrypte",
+						"encrypted_password"
+					],
+					[
+						"computerna",
+						"computername"
+					],
+					[
+						"computer",
+						"computername"
+					],
+					[
+						"debug",
+						"debug_arp_cache\tfunction"
+					],
+					[
+						"row",
+						"row\tstatement"
+					],
+					[
+						"getpass",
+						"getpass\tfunction"
+					],
+					[
+						"encryp",
+						"encryption_key\tstatement"
+					],
+					[
+						"devi",
+						"devices_dict"
+					],
+					[
+						"decryp",
+						"decrypted_file"
+					],
+					[
+						"decrypt",
+						"decrypted_file\tstatement"
+					],
+					[
+						"switch",
+						"switchX"
+					],
+					[
+						"ios",
+						"ios_output"
+					],
+					[
+						"lines",
+						"lines2"
+					],
+					[
+						"core",
+						"core_switches"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"contents": "from netmiko import ConnectHandler\nimport config_modules\nimport time\n\n\ndef main():\n\n    start = time.time()\n\n    #creating 2 dictionaries, one of devices and one of devices and passwords, keys are IP addresses\n    devices_dict = config_modules.read_devices('devices.txt')\n    devices_creds = config_modules.get_device_creds_unencrypted('password.txt')\n\n    #configuring multi-threading\n    config_threads_list = []\n    config_param_list = []\n    #keys are ip addresses\n    for device in devices_dict:\n\n        session = ConnectHandler( device_type=devices_dict[device]['type'], ip=devices_dict[device]['ipaddr'] ,\n                                    username=devices_creds[device]['username'], password=devices_creds[device]['password'])\n\n        config_modules.debug_arp_cache(session)\n        config_modules.debug_running_config(session)\n\n    #printing elapsed time\n    print ( 'Time elapsed: {} seconds'.format(time.time() - start))\n    \nif __name__ == \"__main__\":\n    main()\n\n",
+					"file": "/C/Users/brand/GitStuff/Networking-Projects/Network_Automation/General/debug.py",
+					"file_size": 1005,
+					"file_write_time": 132739795170139130,
+					"settings":
+					{
+						"buffer_size": 980,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/C/Users/brand/GitStuff/Networking-Projects/Network_Automation/General/debug_multithread.py",
+					"settings":
+					{
+						"buffer_size": 1312,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/C/Users/brand/GitStuff/Networking-Projects/Network_Automation/General/interface.py",
+					"settings":
+					{
+						"buffer_size": 1183,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"contents": "Package Control Messages\n========================\n\nAnaconda\n--------\n\n\n                                                            |\n                _` |  __ \\    _` |   __|   _ \\   __ \\    _` |   _` |\n               (   |  |   |  (   |  (     (   |  |   |  (   |  (   |\n              \\__,_| _|  _| \\__,_| \\___| \\___/  _|  _| \\__,_| \\__,_|\n                                       The Sublime Text 3 Python IDE\n\n\n  Anaconda v2.2.1\n  ================\n\n  Welcome to new anaconda v2.2.1, what can do you find in this minor release?\n\n  ## Fixes\n      - Ignore W503 by default as it conflicts with pep8 W504. contributed by Jamie Cruickshank\n\nMarkdownEditing\n---------------\n\n  # MarkdownEditing 3.0.0 Changelog\n\n  Your _MarkdownEditing_ plugin is updated. Enjoy new version. For any type of\n  feedback you can use [GitHub issues][issues].\n\n  This is a major release with several breaking changes, which are required to\n  fix issues, avoid possible confilcts with other packages and enhance overall\n  handling of user settings.\n\n  Please visit [User Guide][UserGuide] to learn more about the full set of features\n  and how to use them.\n\n  If you defined custom key bindings or settings you might need to check and\n  adjust those as commands have been renamed and all preferencesare moved to\n  Preferences.sublime-settings.\n\n  A set of tips is listed in the [Troubleshooting][] section of the [User Guide][UserGuide].\n\n\n  ## Bug Fixes\n\n  ### Behavior Fixes\n\n  * changing heading levels no longer requires text to be selected (fixes #78)\n  * changing heading levels works within block quotes\n  * changing heading levels no longer adds hashmarkers in the middle of a line\n  * auto matching heading hash tags on `enter` now works in blockquotes\n  * `mde_complete_underlined_headings` no longer prevents tab after `-` in new lists (fixes #177)\n  * `ctrl+alt+s` is disabled by default to avoid confilcts (fixes #178)\n  * automatic centering is enabled only if `mde.keep_centered` is `True` (fixes #259)\n  * reassign syntax of open markdown files after install or before uninstall (fixes #216,fixes #485)\n  * reset syntax specific `color_scheme` before plugin is uninstalled (fixes #493)\n  * internal linter now ignores front-matter (fixes #498)\n  * improve strikethrough color scheme rules with regards to punctuation (fixes #534)\n  * fix `shift+tab` not unindenting list items in some situations (fixes #545)\n  * fix `shift+tab` folding instead of unindenting list (fixes #552)\n  * fix bold/italic via `alt+b`/`alt+i` if both marker types are set to `*` (fixes #562)\n  * linter rule md028 correctly detects empty lines between blockquotes (fixes #564)\n  * linter rule md027 no longer triggers for indented lists in blockquotes (fixes #565)\n  * adding footnotes no longer fails if textual footnotes exist (fixes #586)\n  * global color scheme is the default and can optionally be replaced (fixes #436,fixes #567, fixes #595)\n  * avoid possible command naming conflicts with other packages (fixes #606)\n  * hitting `enter` after heading adds correct number of trailing hashes\n    if `mde.match_heading_hashes` is `true` even if some exist already.\n  * hitting `enter` after heading removes trailing hashes\n    if `mde.match_heading_hashes` is `false`.\n  * hitting `enter` in block quotes correctly adds list and task items\n  * hitting `enter` adds new lists/tasks/quotes if auto completion is visisble and\n    `\"setting.auto_complete_commit_on_tab\": true`\n  * hitting `enter` after reference definitions no longer adds duplicates\n  * hitting `enter` after empty list or GFM task items removes them without terminating blockquotes\n  * hitting `enter` after empty blockquotes removes the blockquote markers\n  * disables auto-pairing of `*`, `_`, `` ` ``, `<`, ... within `<kbd></kbd>` tags\n  * indent/unindent list items now works within blockquotes\n  * `tab` and `shift+tab` correctly select next/previous field of snippets\n    instead of indenting/undindenting lists or folding sections\n\n  ### Syntax Fixes\n\n  Markdown syntax is backported from ST4114 to a ST3 compatible version, which provides a lot of\n  fixes and improvements for ST3176+.\n\n  * highlight multiline bold/italics (fixes #103)\n  * highlight code blocks in lists (fixes #122)\n  * highlight blockquote in lists (fixes #123)\n  * add table syntax (fixes #124)\n  * add critic markup (fixes #144)\n  * text and urls inside itallic (bold) markup work correctly (fixes #246)\n  * striked urls no longer break highlighting (fixes #263)\n  * highlight inline bold, italic and raw code blocks in link and image descriptions (fixes #404)\n  * line-breaks within Markdown comments no longer break highlighting (fixes #409)\n  * scope hard line breaks and update color schemes (fixes #470)\n  * prevent \"Apparent recursion\" error by embedding syntaxes in fenced code blocks (fixes #533)\n  * strikethrough followed by no space no longer disables highlighting (fixes #537)\n  * correctly scope bold parts of a word (fixes #553)\n  * don't highlight words starting with hashtag as heading (fixes #572)\n  * ignore info string after language identifier of code fences (fixes #577)\n  * scope punctuation of fenced code blocks (fixes #612)\n\n  ## New Features\n\n  * heading levels can be changed incrementally via <kbd>ctrl+alt+,</kbd> \n    and <kbd>ctrl+alt+.</kbd> (fixes #78)\n  * _Toggle Centered Line_ added to Command Palette (fixes #118)\n  * a new setting `mde.list_align_text` controls whether list item text is alignt to indention levels\n  * key binding (`alt+t`) to create new or convert empty list item to gfm task\n  * key binding (`alt+x`) to toggle task lists (fixes #589)\n  * Color scheme quick panel lists all _MarkdownEditor-<name>.sublime-color-scheme_ files (fixes #563)\n  * fenced codeblocks learned to highlight DOS Batch syntax\n    - Ada syntax\n    - DOS batch syntax\n    - Dart syntax\n    - Docker syntax\n    - Elixir syntax\n    - GraphQL syntax\n    - INI syntax\n    - Jade syntax\n    - JSX syntax\n    - Julia syntax\n    - Kotlin syntax\n    - Matlab syntax\n    - Mermaid syntax\n    - NIM/NIX syntax\n    - PowerShell syntax\n    - R syntax (fixes #569)\n    - STATA syntax (fixes #560)\n    - TOML syntax\n    - TSX syntax\n  * key bindings and snippets to easily insert, accept or reject critic markup\n    - press `alt+c, alt+a` to insert addition\n    - press `alt+c, alt+d` to insert deletion\n    - press `alt+c, alt+h` to insert highlight\n    - press `alt+c, alt+s` to insert substitution\n    - press `alt+c, alt+c` to insert comment\n    - press `alt+enter` to accept critic\n    - press `alt+backspace` to reject critic\n\n  ## Changes\n\n  * All syntaxes use sublime-syntax format (fixes #324)\n  * Requires ST 3176+ (closes #463)\n  * Opt-in to ST4's python3.8 plugin host\n  * Reorganize all python modules in a _plugins_ sub directory\n  * Merge several python modules to group functions logically\n  * Removed most syntax specific settings (fixes #209, fixes #501, fixes #509)\n  * Settings are displayed side-by-side (fixes #609)\n  * Settings are now placed in Preferences.sublime-settings\n  * Reorganize key bindings to group them by logical function\n  * MultiMarkdown is converted to sublime-syntax format\n  * Bold/Italics style is now configured via Preferences\n    (removed _Bold and Italic Markers.tmPreferences_)\n  * The `mde_fold_section` command now respects previously set folding level\n    (Results in more consistend and logical behavior when combined wth `mde_fold_all_sections`)\n  * new commands:\n    - `mde_change_headings_level`\n    - `mde_fold_links`\n    - `mde_match_heading_hashes`\n    - `mde_toggle_centered_line`\n    - `mde_toggle_task_list_item`\n    - `unindent_list_item` replaces `indent_list_item(reverse=True)` \n      and `indent_list_multiitem(reverse=True)`\n  * removed commands:\n    - `indent_list_multiitem`\n  * renamed commands (all commands are prefixed with `mde_`):\n    - `complete_underlined_header` -> `mde_complete_underlined_headings`\n    - `convert_inline_link_to_reference` -> `mde_convert_inline_link_to_reference`\n    - `convert_inline_links_to_references` -> `mde_convert_inline_links_to_references`\n    - `convert_to_atx` -> `mde_convert_underlined_headings_to_atx`\n    - `deindent_quote` -> `mde_unindent_quote`\n    - `fix_all_underlined_headers` -> `mde_fix_underlined_headings`\n    - `fold_all_sections` -> `mde_fold_all_sections`\n    - `fold_section` -> `mde_fold_section`\n    - `gather_missing_footnotes` -> `mde_gather_missing_footnotes`\n    - `gather_missing_link_markers` -> `mde_gather_missing_link_markers`\n    - `goto_next_heading` -> `mde_goto_next_heading`\n    - `goto_previous_heading` -> `mde_goto_previous_heading`\n    - `indent_list_item` -> `mde_indent_list_item` (is used for all items/situations) (fixes #530)\n    - `indent_quote` -> `mde_indent_quote`\n    - `list_back_links` -> `mde_list_back_links`\n    - `magic_footnotes` -> `mde_magic_footnotes`\n    - `make_page_reference` -> `mde_make_page_reference`\n    - `markdown_lint` -> `mde_markdown_lint`\n    - `markdown_lint_mdl` -> `mde_markdown_lint_mdl`\n    - `mde_color_activate` -> `mde_select_color_scheme`\n    - `number_list` -> `mde_number_list`\n    - `number_list_reference` -> `mde_add_numbered_reference_definition`\n    - `open_home_page` -> `mde_open_home_page`\n    - `open_journal` -> `mde_open_journal`\n    - `open_page` -> `mde_open_page`\n    - `reference_delete_reference` -> `mde_reference_delete_reference`\n    - `reference_jump` -> `mde_reference_jump`\n    - `reference_new_footnote` -> `mde_reference_new_footnote`\n    - `reference_new_image` -> `mde_reference_new_image`\n    - `reference_new_inline_image` -> `mde_reference_new_inline_image`\n    - `reference_new_inline_link` -> `mde_reference_new_inline_link`\n    - `reference_new_reference` -> `mde_reference_new_reference`\n    - `reference_organize` -> `mde_reference_organize`\n    - `show_fold_all_sections` -> `mde_show_fold_all_sections`\n    - `switch_list_bullet_type` -> `mde_switch_list_bullet_type`\n    - `unfold_all_sections` -> `mde_unfold_all_sections`\n  * renamed settings:\n    - `mde.match_haeder_hash` -> `mde.match_heading_hashes`\n\n  [issues]: https://github.com/SublimeText-Markdown/MarkdownEditing/issues\n  [UserGuide]: https://sublimetext-markdown.github.io/MarkdownEditing\n  [Troubleshooting]: https://sublimetext-markdown.github.io/MarkdownEditing/troubleshooting",
+					"settings":
+					{
+						"buffer_size": 10303,
+						"line_ending": "Windows",
+						"name": "Package Control Messages",
+						"read_only": true,
+						"scratch": true
+					}
+				},
+				{
+					"file": "/C/Users/brand/OneDrive/Sublime/Lib/site-packages/setuptools/errors.py",
+					"settings":
+					{
+						"buffer_size": 524,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/C/Users/brand/GitStuff/Networking-Projects/Network_Automation/General/config_modules.py",
+					"settings":
+					{
+						"buffer_size": 3915,
+						"line_ending": "Windows"
+					}
+				}
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"git fet",
+						"Git: Fetch"
+					],
+					[
+						"git push",
+						"Git: Push Current Branch"
+					],
+					[
+						"git status",
+						"Git: Status"
+					],
+					[
+						"markdown",
+						"Markdown Preview: Preview in Browser"
+					],
+					[
+						"git pull",
+						"Git: Pull"
+					],
+					[
+						"git Push",
+						"Git: Push Current Branch"
+					],
+					[
+						"Git statu",
+						"Git: Status"
+					],
+					[
+						"Git stat",
+						"Git: Status"
+					],
+					[
+						"git st",
+						"Git: Status"
+					],
+					[
+						"git stat",
+						"Git: Status"
+					],
+					[
+						"Git: Statu",
+						"Git: Status"
+					],
+					[
+						"package control",
+						"Package Control: Install Package"
+					],
+					[
+						"markdownpre",
+						"Markdown Preview: Preview in Browser"
+					],
+					[
+						"package",
+						"Package Control: List Packages"
+					],
+					[
+						"install p",
+						"Package Control: Install Package"
+					],
+					[
+						"Package Control: ",
+						"Package Control: List Packages"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"list packages",
+						"Package Control: List Packages"
+					],
+					[
+						"install package",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 0.0
+			},
+			"console":
+			{
+				"height": 0.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"expanded_folders":
+			[
+				"/C/Users/brand/GitStuff/Networking-Projects/Network_Automation/General"
+			],
+			"file_history":
+			[
+				"/E/Downloads/auto-cream-api-master/auto-cream-api-master/readme.md",
+				"/E/Downloads/auto-creamapi-2.1.7/README.md",
+				"/C/Users/brand/AppData/Local/Temp/Temp1_auto-cream-api-master.zip/auto-cream-api-master/readme.md",
+				"/C/Users/brand/GitStuff/Networking-Projects/Network_Automation/ENCRYPTION/multi_threading.py",
+				"/C/Users/brand/GitStuff/PowershellStuff/Encryption/README.md",
+				"/C/Users/brand/GitStuff/getting-started/docker-tutorial",
+				"/C/Users/brand/Anaconda3/pkgs/vscode_inst.py",
+				"/C/Users/brand/GitStuff/Networking-Projects/.git/config",
+				"/C/Users/brand/GitStuff/Networking-Projects/Network_Automation/password.txt",
+				"/C/Users/brand/GitStuff/Networking-Projects/Network_Automation/ENCRYPTION/devices.txt",
+				"/C/Users/brand/GitStuff/Networking-Projects/Network_Automation/ENCRYPTION/password.txt",
+				"/C/Users/brand/GitStuff/PowershellStuff/Encryption/Shutdown_Pc.ps1",
+				"/C/Users/brand/GitStuff/PowershellStuff/.gitignore",
+				"/C/Users/brand/GitStuff/PowershellStuff/Create_Credential.ps1",
+				"/C/Users/brand/GitStuff/PowershellStuff/Encryption/encrypted.test",
+				"/C/Users/brand/GitStuff/PowershellStuff/README.md",
+				"/C/Users/brand/GitStuff/PowershellStuff/encrypted.test",
+				"/C/Users/brand/GitStuff/PowershellStuff/password.test",
+				"/C/Users/brand/GitStuff/PowershellStuff/key.test",
+				"/C/Users/brand/GitStuff/PowershellStuff/decrypted.test",
+				"/C/Users/brand/GitStuff/PowershellStuff/encrypted-password.txt",
+				"/C/Users/brand/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+				"/C/Users/brand/test.txt",
+				"/C/Users/brand/AppData/Roaming/Sublime Text 3/Packages/User/SublimeGit.sublime-settings",
+				"/C/Users/brand/AppData/Roaming/Sublime Text 3/Packages/SublimeGit/Default (Windows).sublime-keymap",
+				"/C/Users/brand/AppData/Roaming/Sublime Text 3/Packages/SublimeGit/Default.sublime-keymap",
+				"/C/Users/brand/AppData/Roaming/Sublime Text 3/Packages/Default/Default (Windows).sublime-keymap",
+				"/C/Users/brand/AppData/Roaming/Sublime Text 3/Packages/SublimeGit/SublimeGit.sublime-settings",
+				"/C/Users/brand/GitStuff/Networking-Projects/.gitignore",
+				"/C/Users/brand/GitStuff/Networking-Projects/Network_Automation/General/README.md",
+				"/C/Users/brand/GitStuff/Networking-Projects/Network_Automation/General/devices.txt",
+				"/C/Users/brand/GitStuff/Networking-Projects/Network_Automation/General/192.168.254.11_arp.txt",
+				"/C/Users/brand/.gitconfig",
+				"/C/Users/brand/GitStuff/PowershellStuff/scratchwork.txt",
+				"/C/Users/brand/GitStuff/PowershellStuff/first.ps1",
+				"/C/Users/brand/GitStuff/PowershellStuff/mod4script2.ps1",
+				"/C/Users/brand/GitStuff/PowershellStuff/test.csv",
+				"/C/Users/brand/GitStuff/PowershellStuff/test.txt",
+				"/C/Users/brand/GitStuff/dotfiles/README.md",
+				"/C/Users/brand/GitStuff/PowershellStuff/output.txt",
+				"/C/Users/brand/GitStuff/Networking-Projects/Network_Automation/DEBUG/debug.py",
+				"/C/Users/brand/GitStuff/Networking-Projects/Network_Automation/DEBUG/config_modules.py",
+				"/C/Users/brand/GitStuff/Networking-Projects/Network_Automation/DEBUG/password.txt",
+				"/C/Users/brand/GitStuff/Networking-Projects/Network_Automation/DEBUG/devices.txt",
+				"/C/Users/brand/GitStuff/Networking-Projects/Network_Automation/DEBUG/README.md",
+				"/C/Users/brand/GitStuff/Networking-Projects/Network_Automation/ENCRYPTION/config_modules.py",
+				"/C/Users/brand/GitStuff/dotfiles/.bash_profile",
+				"/C/Users/brand/.bashrc",
+				"/C/Users/brand/GitStuff/Networking-Projects/Network_Automation/ENCRYPTION/README.md",
+				"/C/Program Files/Git/etc/gitconfig",
+				"/C/Users/brand/GitStuff/dotfiles/.bashrc",
+				"/C/Users/brand/.bash_profile",
+				"/C/Users/brand/GitStuff/Networking-Projects/Network_Automation/config_modules.py",
+				"/C/Users/brand/AppData/Roaming/Sublime Text 3/Packages/User/Markdown (Standard).sublime-settings",
+				"/C/Users/brand/AppData/Roaming/Sublime Text 3/Packages/MarkdownEditing/Markdown.sublime-settings",
+				"/C/Users/brand/AppData/Roaming/Sublime Text 3/Packages/MarkdownEditing/Markdown (Standard).sublime-settings",
+				"/C/Users/brand/AppData/Roaming/Sublime Text 3/Packages/MarkdownEditing/README.md",
+				"/C/Users/brand/AppData/Roaming/Sublime Text 3/Packages/User/Markdown.sublime-settings",
+				"/C/Users/brand/AppData/Local/Temp/Temp1_get_config_sequential.py.zip/get_config_sequential.py",
+				"/C/Users/brand/GitStuff/Networking-Projects/Network_Automation/.bashrc",
+				"/C/Users/brand/GitStuff/Networking-Projects/Network_Automation/ENCRYPTION/encrypt_file.py",
+				"/C/Users/brand/GitStuff/Networking-Projects/Network_Automation/NETMIKO_TXT_FILES/config_modules.py",
+				"/C/Users/brand/GitStuff/Networking-Projects/.git/COMMIT_EDITMSG",
+				"/C/Users/brand/GitStuff/Networking-Projects/Network_Automation/NETMIKO_TXT_FILES/config_trunk.cfg",
+				"/C/Users/brand/GitStuff/Networking-Projects/Network_Automation/NETMIKO_TXT_FILES/devices.txt",
+				"/C/Users/brand/GitStuff/Networking-Projects/Network_Automation/NETMIKO_TXT_FILES/NMIKO_FINAL.py",
+				"/C/Users/brand/GitStuff/Networking-Projects/.git/MERGE_MSG",
+				"/C/Users/brand/GitStuff/Networking-Projects/Network_Automation/NETMIKO_TXT_FILES/README.md",
+				"/C/Users/brand/GitStuff/Networking-Projects/Network_Automation/NETMIKO_TXT_FILES/NMIKO_ITERATION.txt",
+				"/C/Users/brand/.profile",
+				"/C/Users/brand/GitStuff/Networking-Projects/Network_Automation/netmiko2.py",
+				"/C/Users/brand/GitStuff/Networking-Projects/Network Automation/NETMIKO_TXT_FILES/password.txt",
+				"/C/Users/brand/GitStuff/Networking-Projects/Network Automation/NETMIKO_TXT_FILES/devices.txt",
+				"/C/Users/brand/GitStuff/Networking-Projects/Network Automation/NETMIKO_TXT_FILES/NMIKO_FINAL.py",
+				"/C/Users/brand/GitStuff/Networking-Projects/Network Automation/NETMIKO_TXT_FILES/config_modules.py",
+				"/C/Users/brand/GitStuff/Networking-Projects/Network Automation/NETMIKO_TXT_FILES/password_test.txt",
+				"/C/Users/brand/AppData/Roaming/Sublime Text 3/Packages/User/Anaconda.sublime-settings",
+				"/C/Users/brand/GitStuff/Networking-Projects/Network Automation/NETMIKO_TXT_FILES/switch_ip.txt",
+				"/C/Users/brand/OneDrive/Sublime Projects/Network Automation/NETMIKO_TXT_FILES/switch_ip.txt",
+				"/C/Users/brand/OneDrive/Sublime Projects/Network Automation/NETMIKO_TXT_FILES/devices.txt",
+				"/C/Users/brand/OneDrive/Sublime Projects/Network Automation/NETMIKO_TXT_FILES/config_modules.py",
+				"/C/Users/brand/OneDrive/Sublime Projects/Network Automation/NETMIKO_TXT_FILES/config_ospf.cfg",
+				"/C/Users/brand/OneDrive/Sublime Projects/Network Automation/NETMIKO_TXT_FILES/NMIKO_ITERATION7.py",
+				"/C/Users/brand/OneDrive/Sublime Projects/Network Automation/NETMIKO_TXT_FILES/password_test.py",
+				"/C/Users/brand/OneDrive/Sublime Projects/Network Automation/NAPALM_TXT_FILES/napalmconfig4.py",
+				"/C/Users/brand/OneDrive/Sublime Projects/Network Automation/NAPALM_TXT_FILES/napalmconfig3.py",
+				"/C/Users/brand/OneDrive/Sublime Projects/Network Automation/NAPALM/napalmconfig2.py",
+				"/C/Users/brand/OneDrive/Sublime Projects/Network Automation/NAPALM/ACL2.cfg",
+				"/C/Users/brand/OneDrive/Sublime Projects/Network Automation/NAPALM/napalmconfig1.py",
+				"/C/Users/brand/OneDrive/Sublime Projects/Network Automation/NAPALM/napalmbgp2.py",
+				"/C/Users/brand/OneDrive/Sublime Projects/Network Automation/NAPALM/ACL1.cfg.py",
+				"/C/Users/brand/OneDrive/Sublime Projects/Network Automation/NAPALM/napalm1.py",
+				"/C/Users/brand/OneDrive/Sublime Projects/Network Automation/NAPALM/napalm2.py",
+				"/C/Users/brand/OneDrive/Sublime Projects/Network Automation/NAPALM/napalmbgp1.py",
+				"/C/Users/brand/AppData/Local/Temp/Temp1_netmiko4.py.zip/netmiko4.py",
+				"/C/Users/brand/AppData/Local/Temp/Temp1_iosv_l2_cisco_design.zip/iosv_l2_cisco_design",
+				"/C/Users/brand/OneDrive/Sublime Projects/Network Automation/netmiko3.py",
+				"/C/Users/brand/OneDrive/Sublime Projects/Network Automation/switchWrite.py",
+				"/C/Users/brand/AppData/Local/Temp/Temp1_netmiko3.py.zip/netmiko3.py",
+				"/C/Users/brand/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+				"/C/Users/brand/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+				"/C/Users/brand/OneDrive/Sublime Projects/Network Automation/python32.py",
+				"/C/Users/brand/OneDrive/Sublime Projects/Network Automation/test.py",
+				"/C/Users/brand/OneDrive/Sublime Projects/test.py"
+			],
+			"find":
+			{
+				"height": 29.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"config_threads_list"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"path": "C:\\Users\\brand\\GitStuff\\Networking-Projects\\Network_Automation\\General"
+				}
+			],
+			"groups":
+			[
+				{
+					"selected": 4,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/C/Users/brand/GitStuff/Networking-Projects/Network_Automation/General/debug.py",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 980,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										407,
+										407
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Python/Python.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 5,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/C/Users/brand/GitStuff/Networking-Projects/Network_Automation/General/debug_multithread.py",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 1312,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										894,
+										894
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Python/Python.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 180.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 4,
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"file": "/C/Users/brand/GitStuff/Networking-Projects/Network_Automation/General/interface.py",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 1183,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										468,
+										468
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Python/Python.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 2,
+							"type": "text"
+						},
+						{
+							"buffer": 3,
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 10303,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										10303,
+										10303
+									]
+								],
+								"settings":
+								{
+									"auto_indent": false,
+									"default_dir": "C:\\Users\\brand\\GitStuff\\Networking-Projects\\Network_Automation\\General",
+									"syntax": "Packages/Text/Plain text.tmLanguage",
+									"tab_width": 2,
+									"word_wrap": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"type": "text"
+						},
+						{
+							"buffer": 4,
+							"file": "/C/Users/brand/OneDrive/Sublime/Lib/site-packages/setuptools/errors.py",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 524,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Python/Python.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						},
+						{
+							"buffer": 5,
+							"file": "/C/Users/brand/GitStuff/Networking-Projects/Network_Automation/General/config_modules.py",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 3915,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Python/Python.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 1401.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 3,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 29.0
+			},
+			"input":
+			{
+				"height": 41.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"output.git-commit":
+			{
+				"height": 138.0
+			},
+			"output.git-fetch":
+			{
+				"height": 138.0
+			},
+			"output.git-push":
+			{
+				"height": 138.0
+			},
+			"pinned_build_system": "",
+			"position": "0,0,1,-1,-1,-1,-1,895,176,40,1802",
+			"project": "",
+			"replace":
+			{
+				"height": 54.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 320.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 48,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+		]
+	}
+}
