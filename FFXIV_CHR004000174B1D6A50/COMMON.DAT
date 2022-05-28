@@ -1,6 +1,7 @@
 BattleEffectSelf	0
 BattleEffectParty	1
 BattleEffectOther	1
+BattleEffectPvPEnemyPc	0
 
 <GamePad Settings>
 PadMode	0
@@ -16,13 +17,13 @@ LipMotionType	1
 FirstPersonDefaultYAngle	0.000000
 FirstPersonDefaultZoom	0.780000
 FirstPersonDefaultDistance	1.500000
-ThirdPersonDefaultYAngle	-0.041878
+ThirdPersonDefaultYAngle	-0.429341
 ThirdPersonDefaultZoom	0.780000
 ThirdPersonDefaultDistance	20.000000
 LockonDefaultYAngle	-0.561756
 LockonDefaultZoom	0.780000
 LockonDefaultZoom	19.979870
-CameraProductionOfAction	0
+CameraProductionOfAction	1
 FPSCameraInterpolationType	1
 FPSCameraVerticalInterpolation	0
 LegacyCameraType	1
@@ -41,6 +42,10 @@ GroundTargetTPSPosY	45000
 TargetDisableAnchor	0
 TargetCircleClickFilterEnableNearestCursor	0
 TargetEnableMouseOverSelect	0
+GroundTargetCursorCorrectType	0
+GroundTargetActionExcuteType	1
+AutoNearestTarget	1
+AutoNearestTargetType	1
 TurnSpeed	100
 FootEffect	0
 LegacySeal	1
@@ -49,13 +54,18 @@ EgiMirageTypeGaruda	0
 EgiMirageTypeTitan	2
 EgiMirageTypeIfrit	3
 BahamutSize	0
+PetMirageTypeCarbuncleSupport	0
+PhoenixSize	0
+GarudaSize	0
+TitanSize	0
+IfritSize	0
 TimeMode	2
 Time12	0
 TimeEorzea	1
 TimeLocal	1
 TimeServer	1
 ActiveLS_H	5177344
-ActiveLS_L	131055
+ActiveLS_L	139055
 HotbarLock	1
 HotbarDispRecastTime	1
 HotbarCrossContentsActionEnableInput	1
@@ -278,7 +288,7 @@ LogTabFilter3	3
 LogChatFilter	0
 LogEnableErrMsgLv1	0
 LogNameType	0
-LogTimeDisp	0
+LogTimeDisp	1
 LogTimeSettingType	0
 LogTimeDispType	0
 IsLogTell	1
@@ -329,16 +339,17 @@ LogPermeationRate	50
 LogFontSizeForm	12
 LogItemLinkEnableType	1
 LogFontSizeLog2	12
-LogTimeDispLog2	0
+LogTimeDispLog2	1
 LogPermeationRateLog2	50
 LogFontSizeLog3	12
-LogTimeDispLog3	0
+LogTimeDispLog3	1
 LogPermeationRateLog3	50
 LogFontSizeLog4	12
-LogTimeDispLog4	0
+LogTimeDispLog4	1
 LogPermeationRateLog4	50
 LogFlyingHeightMaxErrDisp	0
 LogCrossWorldName	1
+LogDragResize	1
 ChatType	18
 ShopSell	0
 ColorSay	16316664
@@ -427,12 +438,13 @@ ContentsFinderListSortType	0
 ContentsFinderSupplyEnable	0
 EnemyListCastbarEnable	1
 AchievementAppealLoginDisp	1
-ContentsFinderUseLangTypeJA	0
+ContentsFinderUseLangTypeJA	1
 ContentsFinderUseLangTypeEN	1
 ContentsFinderUseLangTypeDE	0
 ContentsFinderUseLangTypeFR	0
 ItemInventryWindowSizeType	1
 ItemInventryRetainerWindowSizeType	0
+BattleTalkShowFace	1
 EmoteTextType	1
 IsEmoteSe	0
 EmoteSeType	0
@@ -454,5 +466,7 @@ MouseWheelOperationAltUp	0
 MouseWheelOperationAltDown	0
 MouseWheelOperationShiftUp	0
 MouseWheelOperationShiftDown	0
+TelepoTicketUseType	0
+TelepoTicketGilSetting	1
 PvPFrontlinesGCFree	1
  
